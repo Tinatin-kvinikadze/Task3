@@ -1,0 +1,274 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    width:3500px;
+}
+
+.header {
+    background: #D9D9D9;
+    width:1440px;
+    height:200px;
+    position: relative;
+  
+    
+   
+
+}
+
+.navigacia a{
+ text-decoration: none;
+ color:#717276;
+ font-family:'ALK Life';
+ font-size:24px;
+ line-height:30px;
+ width:180px;
+
+ 
+}
+.navigacia-2{
+
+    position: absolute;
+    top:95px;
+    left:695px; 
+    width:715px;
+    height:30px;
+    font-size:24px;
+   
+   
+}
+
+
+.logo{
+    position: absolute;
+    width: 178px;
+    height: 100px;
+    top: 50px;
+    left: 110px;
+
+}
+
+.surati{
+    position: absolute;
+    width: 1180px;
+  height: 287px;
+  top: 360px;
+  left: 130px;
+
+
+}
+
+.section-1{
+   
+    position: relative;
+}
+.patara-logo{
+    position: absolute;
+    display:flex;
+    justify-content: flex-start;
+    top:607px;
+    left:-75px;
+    width: 533px;
+    height: 100px;
+}
+
+.section-1 h2{
+    position: absolute;
+    top:630px;
+    left:270px;
+    font-size: 32px;
+    font-weight: 700px;
+    line-height:51px;
+    color: #717276;
+    width:393px;
+    height:51px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.wignebi{
+    display: flex;
+    position:absolute;
+    top:947px;
+    left:130px;
+    
+    
+}
+
+.wigni-1{
+  margin-right: 20px;
+  margin-bottom: 30px;
+  width:380px;
+  height:512px;
+}
+
+.wigni-2{
+    margin-right:20px;
+}
+
+.tamta{
+    color: #717276;
+    font-weight:700;
+    font-size:24px;
+    line-height:39px;
+    font-family: 'DejaVu Sans', sans-serif;
+
+}
+
+.shashvi{
+    color:#000000;
+    font-size:24px;
+    font-weight: 400;
+    font-family: 'ALK Life', sans-serif;
+    line-height: 30px;
+}
+
+.fasi-1{
+    font-family: 'DejaVu Sans';
+    font-size:24px;
+    line-height:39px;
+    font-weight:700;
+    color:#000000;
+
+}
+
+.eka{
+    color: #717276;
+    font-weight:700;
+    font-size:24px;
+    line-height:39px;
+    font-family: 'DejaVu Sans', sans-serif;
+
+}
+
+
+.transporti{
+    color:#000000;
+    font-size:24px;
+    font-weight: 400;
+    font-family: 'ALK Life', sans-serif;
+    line-height: 30px;
+    display: flex;
+    flex-wrap: wrap; 
+    width:380px;
+
+}
+
+.fasi-2{
+    font-family: 'DejaVu Sans';
+    font-size:24px;
+    line-height:39px;
+    font-weight:700;
+    color:#000000;
+}
+
+.zaira
+{
+    color: #717276;
+    font-weight:700;
+    font-size:24px;
+    line-height:39px;
+    font-family: 'DejaVu Sans', sans-serif;
+
+}
+
+
+.sofeli{
+    color:#000000;
+    font-size:24px;
+    font-weight: 400;
+    font-family: 'ALK Life', sans-serif;
+    line-height: 30px;
+    display: flex;
+    flex-wrap: wrap; 
+    width:380px;
+
+}
+
+.fasi-3{
+    font-family: 'DejaVu Sans';
+    font-size:24px;
+    line-height:39px;
+    font-weight:700;
+    color:#000000;
+}
+
+
+
+.section-2{
+   
+    position: relative;
+}
+.patara-logo2{
+    position: absolute;
+    display:flex;
+    justify-content: flex-start;
+    top:1530px;
+    left:130px;
+    width: 100px;
+    height: 100px;
+}
+
+.avtorebi{
+    position: absolute;
+    top:1550px;
+    left:290px;
+    font-size: 32px;
+    font-weight: 700px;
+    line-height:51px;
+    color: #717276;
+    width:292px;
+    height:51px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.section-3{
+   position:absolute;
+   display:flex;  
+   top:1900px;
+   left:130px;
+}
+
+.pic-1{
+    padding-right: 20px;
+}
+.pic-2{
+    padding-right: 20px;
+}
+.pic-3{
+    padding-right: 20px;
+}
+
+.footer{
+    top:2383px;
+    background:#D9D9D9;
+    height:248px;
+    width:1440px;
+    position:relative; 
+}
+.icons{
+    position: absolute;
+    top:2661px;
+    left:1127px;
+}
+ 
+
+.footer2{
+    position: absolute;
+    top:79px;
+    left:110px;
+    font-family: 'ALK Life';
+    font-size:24px;
+    font-weight:400;
+    line-height:30px;
+    color:#000000;
+   
+}
